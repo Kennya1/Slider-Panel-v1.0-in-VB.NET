@@ -3,14 +3,14 @@
         If Button1.Text = "Show" Then
             Do Until Panel1.Location.X = 0
                 Panel1.Location = New Point(Panel1.Location.X + 1, 0)
-                System.Threading.Thread.Sleep(2)
+                System.Threading.Thread.Sleep(0.05)
                 Button1.Text = "Hide"
                 Me.Refresh()
             Loop
         Else
             Do Until Panel1.Location.X = -115
                 Panel1.Location = New Point(Panel1.Location.X - 1, 0)
-                System.Threading.Thread.Sleep(2)
+                System.Threading.Thread.Sleep(0.05)
                 Button1.Text = "Show"
                 Me.Refresh()
             Loop

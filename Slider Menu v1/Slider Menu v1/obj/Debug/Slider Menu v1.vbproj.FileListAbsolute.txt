@@ -9,3 +9,15 @@ c:\users\ghanshyam\documents\visual studio 2015\Projects\Slider Menu v1\Slider M
 c:\users\ghanshyam\documents\visual studio 2015\Projects\Slider Menu v1\Slider Menu v1\obj\Debug\Slider Menu v1.exe
 c:\users\ghanshyam\documents\visual studio 2015\Projects\Slider Menu v1\Slider Menu v1\obj\Debug\Slider Menu v1.xml
 c:\users\ghanshyam\documents\visual studio 2015\Projects\Slider Menu v1\Slider Menu v1\obj\Debug\Slider Menu v1.pdb
+C:\My Documents\Dropbox\Visual Studio 2017\GitHub\SliderPanel\Slider-Panel-v1.0-in-VB.NET\Slider Menu v1\Slider Menu v1\bin\Debug\Slider Menu v1.exe.config
+C:\My Documents\Dropbox\Visual Studio 2017\GitHub\SliderPanel\Slider-Panel-v1.0-in-VB.NET\Slider Menu v1\Slider Menu v1\bin\Debug\Slider Menu v1.exe
+C:\My Documents\Dropbox\Visual Studio 2017\GitHub\SliderPanel\Slider-Panel-v1.0-in-VB.NET\Slider Menu v1\Slider Menu v1\bin\Debug\Slider Menu v1.pdb
+C:\My Documents\Dropbox\Visual Studio 2017\GitHub\SliderPanel\Slider-Panel-v1.0-in-VB.NET\Slider Menu v1\Slider Menu v1\bin\Debug\Slider Menu v1.xml
+C:\My Documents\Dropbox\Visual Studio 2017\GitHub\SliderPanel\Slider-Panel-v1.0-in-VB.NET\Slider Menu v1\Slider Menu v1\obj\Debug\Slider Menu v1.vbprojAssemblyReference.cache
+C:\My Documents\Dropbox\Visual Studio 2017\GitHub\SliderPanel\Slider-Panel-v1.0-in-VB.NET\Slider Menu v1\Slider Menu v1\obj\Debug\Slider_Menu_v1.Form1.resources
+C:\My Documents\Dropbox\Visual Studio 2017\GitHub\SliderPanel\Slider-Panel-v1.0-in-VB.NET\Slider Menu v1\Slider Menu v1\obj\Debug\Slider_Menu_v1.Resources.resources
+C:\My Documents\Dropbox\Visual Studio 2017\GitHub\SliderPanel\Slider-Panel-v1.0-in-VB.NET\Slider Menu v1\Slider Menu v1\obj\Debug\Slider Menu v1.vbproj.GenerateResource.cache
+C:\My Documents\Dropbox\Visual Studio 2017\GitHub\SliderPanel\Slider-Panel-v1.0-in-VB.NET\Slider Menu v1\Slider Menu v1\obj\Debug\Slider Menu v1.vbproj.CoreCompileInputs.cache
+C:\My Documents\Dropbox\Visual Studio 2017\GitHub\SliderPanel\Slider-Panel-v1.0-in-VB.NET\Slider Menu v1\Slider Menu v1\obj\Debug\Slider Menu v1.exe
+C:\My Documents\Dropbox\Visual Studio 2017\GitHub\SliderPanel\Slider-Panel-v1.0-in-VB.NET\Slider Menu v1\Slider Menu v1\obj\Debug\Slider Menu v1.xml
+C:\My Documents\Dropbox\Visual Studio 2017\GitHub\SliderPanel\Slider-Panel-v1.0-in-VB.NET\Slider Menu v1\Slider Menu v1\obj\Debug\Slider Menu v1.pdb
